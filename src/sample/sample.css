@@ -1,0 +1,8 @@
+.root {
+-fx-font-size: 16
+}
+Label.header {
+-fx-font-weight: bold;
+-fx-font-size:20;
+
+}
